@@ -1,0 +1,24 @@
+.mainDiv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mf {
+    width: 50px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    color: white !important;
+    font-weight: bold;
+    /* display: inline-block; */
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar {
+    /* position: fixed; */
+    width: 100%;
+}
